@@ -1,6 +1,6 @@
 # SSSF week 3 exercise. Submit to Oma
 
-Convert the REST API from last weeks assignment to use MongoDB and Mongoose
+Convert the REST API from last weeks assignment to GraphQL.
 
 ## Getting started
 
