@@ -1,4 +1,4 @@
-# SSSF week 2 exercise. Submit to Oma
+# SSSF week 3 exercise. Submit to Oma
 
 Convert the REST API from last weeks assignment to use MongoDB and Mongoose
 
