@@ -31,3 +31,4 @@ Convert the REST API from last weeks assignment to GraphQL.
 - No authentication and authorization this week. All mutations are done with id properties. So no need to use req.user.
 - Always empty your cats and users after tests.
 # SSSF-week3
+# SSSF-week3
