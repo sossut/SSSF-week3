@@ -101,6 +101,7 @@ describe('Testing graphql api', () => {
 
   // get cats by user id
   it('should return cats by current user', async () => {
+    console.log('return cats by current user Test', user.id);
     await getCatByOwner(app, user.id!);
   });
 
