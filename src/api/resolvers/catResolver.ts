@@ -24,7 +24,6 @@ export default {
       return await catModel.findById(args.id);
     },
     catsByOwner: async (_parent: undefined, args: any) => {
-      console.log(args.ownerId);
       return await catModel.find({owner: args.ownerId});
     },
     catsByArea: async (_parent: undefined, args: locationInput) => {
